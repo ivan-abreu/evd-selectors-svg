@@ -129,14 +129,15 @@
 			C865.3,503.3,864.7,503.5,864.1,503.5z"/>
 	</g>
 </g>
-<rect id="recg1" x="102.5" y="54.2" fill="#333333" width="118" height="118"/>
-<rect id="recg2" x="336.5" y="54.2" fill="#333333" width="118" height="118"/>
-<rect id="recg3" x="571.3" y="54.2" fill="#333333" width="118" height="118"/>
-<rect id="recg4" x="804.6" y="54.2" fill="#333333" width="118" height="118"/>
-<rect id="rec1" x="192.5" y="144.2" fill="#CB6120" width="28" height="28"/>
-<rect id="rec2" x="408.5" y="126.2" fill="#CB6120" width="46" height="46"/>
-<rect id="rec3" x="598.5" y="81.4" fill="#CB6120" width="90.8" height="90.8"/>
-<rect id="rec4" x="840.6" y="90.2" fill="#CB6120" width="82" height="82"/>
+<rect id="recg1" class="rectabgulos" x="102.5" y="54.2" fill="#333333" width="118" height="118"/>
+<rect id="recg2" class="rectabgulos"x="336.5" y="54.2" fill="#333333" width="118" height="118"/>
+<rect id="recg3" class="rectabgulos"x="571.3" y="54.2" fill="#333333" width="118" height="118"/>
+<rect id="recg4" class="rectabgulos"x="804.6" y="54.2" fill="#333333" width="118" height="118"/>
+<rect id="rec1" class="rectabgulos"x="192.5" y="144.2" fill="#CB6120" width="28" height="28"/>
+<rect id="rec2" class="rectabgulos"x="408.5" y="126.2" fill="#CB6120" width="46" height="46"/>
+<rect id="rec3" class="rectabgulos"x="598.5" y="81.4" fill="#CB6120" width="90.8" height="90.8"/>
+<rect id="rec4" class="rectabgulos"x="840.6" y="90.2" fill="#CB6120" width="82" height="82"/>
+
 <path id="curva1" fill="none" stroke="#CB6120" stroke-width="40" stroke-miterlimit="10" d="M80,352c0-47.8,38.7-86.5,86.5-86.5
 	S253,304.2,253,352"/>
 <path id="curva2" fill="none" stroke="#CB6120" stroke-width="40" stroke-miterlimit="10" d="M314,352c0-47.8,38.7-86.5,86.5-86.5
