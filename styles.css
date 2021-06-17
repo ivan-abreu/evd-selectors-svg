@@ -10,3 +10,15 @@ body {
 .iconos:hover path {
   fill: green;
 }
+
+/* .rectangulos:active {
+  fill: red;
+} */
+
+.rectangulos:hover {
+  fill: rgb(255, 238, 0);
+}
+
+#curva1:hover {
+  stroke: black;
+}
